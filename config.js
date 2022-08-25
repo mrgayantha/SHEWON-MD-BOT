@@ -8,7 +8,7 @@
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE
 //▮http://shewon.ml/
-//▮WHATSAPP US : +94 78 499 7828
+//▮WHATSAPP US : +94 75 851 2807
 //▮YOUTUBE CHANNELL: https://youtube.com/c/slcartooninstudio
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -37,13 +37,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94784997828','']
-global.premium = ['94784997828','94784997828']
-global.botname = 'SHEWON MD BOT'
-global.ownername = 'Shewon'
-global.group1 = 'https://chat.whatsapp.com/Fm4u0QPs077451u4WIk6Lt'
-global.group2 = 'https://chat.whatsapp.com/KIcwDEHyuoL4SjxQgVW5gZ'
-global.packname = 'SHEWON MD BOT'
+global.owner = ['94758512807','14386008837']
+global.premium = ['94758512807','14386008837']
+global.botname = '◈ ◈ ◈ MS-THARU ◈ ◈ ◈'
+global.ownername = 'Gayantha'
+global.group1 = 'https://chat.whatsapp.com/JlclULFxIGO5X4JnAVbzmI'
+global.group2 = 'https://chat.whatsapp.com/HiCr9f0PIIzGse0YfmphKi'
+global.packname = '◈ ◈ ◈ MS-THARU ◈ ◈ ◈'
 global.ytchannel = 'https://youtube.com/c/slcartooninstudio'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -71,7 +71,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '*success whoa*',
+    success: '*success ✔*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
     horny: '*nsfw is disabled please ask owner to enable it*',
     admin: '*this cmd is for admin only , l can feel you but sorry okay*',
